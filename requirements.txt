@@ -1,6 +1,6 @@
 arxiv
 wikipedia
-langchain
+langchain==0.0.352
 langchain_chroma
 chroma
 faiss-cpu
@@ -15,4 +15,4 @@ langchain-groq
 langchain-ollama
 streamlit
 duckdb
-duckduckgo
+duckduckgo-search
