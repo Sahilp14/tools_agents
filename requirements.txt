@@ -1,6 +1,6 @@
 arxiv
 wikipedia
-langchain==0.0.352
+langchain
 langchain_chroma
 chroma
 faiss-cpu
