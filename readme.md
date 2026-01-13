@@ -1,4 +1,4 @@
-# 🧠 LangChain Tools Agent with Streamlit (LangChain 1.2.x)
+# 🧠 LangChain Tools Agent with Streamlit (LangChain)
 
 A Streamlit-based AI chatbot built using LangChain 1.2.x, Groq LLMs, and multiple tools like DuckDuckGo Search, Wikipedia, and Arxiv.
 
